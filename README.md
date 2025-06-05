@@ -1,7 +1,11 @@
 ## I'm TrungNV 👋
 
 - 🔭 I’m currently working on Technical Manager @ HTPgroup
-- 💬 Ask me about DATA on the SRE role
+- 💬 Ask me about DATA on the SRE (Site reliability engineering) extended with:
+      	+> Data Engineer (Hadoop, Spark, Python, Airflow)
+      	+> Automation (N8N)
+      	+> DBA (Oracle, MySQL, PostgreSQL)
+      	+> Machine Learning (ALM in Fintech)
 - 📫 How to reach me: https://trungnvfet.github.io
 
 ### Technologies & Tools
