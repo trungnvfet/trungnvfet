@@ -4,9 +4,10 @@
 - 💬 Ask me about DATA on the SRE (Site reliability engineering) extended with:
 	- Data Engineer (Hadoop, Spark, Python, Airflow)
 	- Machine Learning (ALM in Fintech)
-	- Security (Fundamental)
+	- Security (Fundamental with Nessus, Nmap, Sonarqube & Burpsuite)
 	- Automation (n8n, Python)
 	- Database (AWR, ADDM, ASH report)
+ 	- Monitoring (ELK, Telegraf, Prometheus, Grafana) 
 
 - 📫 How to reach me: https://trungnvfet.github.io
 
