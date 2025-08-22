@@ -1,6 +1,6 @@
 ## I'm TrungNV (Trung Nguyen Van)
 
-- 🔭 I’m currently working on Senior Technical Manager @ HTPgroup
+- 🔭 I’m currently working on Senior Technical Leader @ HTPgroup
 - 💬 Ask me about DATA on the SRE (Site reliability engineering) extended with:
 	- `Data Engineer` (Hadoop, Spark, Python, Airflow)
 	- `Machine Learning` (ALM in Fintech)
